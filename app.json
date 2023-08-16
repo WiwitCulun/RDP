@@ -11,7 +11,7 @@
         "debian",
         "noVNC"
     ],
-    "repository":"https://github.com/IQOOZ75G/NoVnc-Railway",
+    "repository":"https://github.com/WiwitCulun/RDP",
     "stack":"container",
     "env":{
         "NGROK_APIKEY":{
